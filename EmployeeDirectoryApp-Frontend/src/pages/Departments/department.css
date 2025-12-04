@@ -1,0 +1,28 @@
+.modal-overlay {
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  background: rgba(0,0,0,0.35);
+  z-index: 1200;
+  padding: 20px;
+}
+
+.modal-card {
+  width: 100%;
+  max-width: 720px;
+  background: white;
+  border-radius: 10px;
+  padding: 18px;
+  box-shadow: 0 6px 24px rgba(0,0,0,0.25);
+}
+
+.table.no-actions th,
+.table.no-actions td {
+  width: auto !important;
+  max-width: 200px;
+}
