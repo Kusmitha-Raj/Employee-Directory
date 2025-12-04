@@ -5073,8 +5073,8 @@
     },
     "EmployeeDirectoryApp/1.0.0": {
       "type": "project",
-      "path": "../EmployeeDirectoryApp-Backend/EmployeeDirectoryApp.csproj",
-      "msbuildProject": "../EmployeeDirectoryApp-Backend/EmployeeDirectoryApp.csproj"
+      "path": "../Backend/EmployeeDirectoryApp.csproj",
+      "msbuildProject": "../Backend/EmployeeDirectoryApp.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5121,8 +5121,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\KusmithaRaj\\Downloads\\EmployeeDirectory-UseCase\\EmployeeDirectoryApp-Backend\\EmployeeDirectoryApp.csproj": {
-              "projectPath": "C:\\Users\\KusmithaRaj\\Downloads\\EmployeeDirectory-UseCase\\EmployeeDirectoryApp-Backend\\EmployeeDirectoryApp.csproj"
+            "C:\\Users\\KusmithaRaj\\Downloads\\EmployeeDirectory-UseCase\\Backend\\EmployeeDirectoryApp.csproj": {
+              "projectPath": "C:\\Users\\KusmithaRaj\\Downloads\\EmployeeDirectory-UseCase\\Backend\\EmployeeDirectoryApp.csproj"
             }
           }
         }
