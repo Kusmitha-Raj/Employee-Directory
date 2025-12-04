@@ -5095,11 +5095,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KusmithaRaj\\Downloads\\EmployeeDirectory-UseCase\\EmployeeDirectoryTest\\EmployeeDirectoryTest.csproj",
+      "projectUniqueName": "C:\\Users\\KusmithaRaj\\source\\repos\\EmployeeDirectoryTest\\EmployeeDirectoryTest.csproj",
       "projectName": "EmployeeDirectoryTest",
-      "projectPath": "C:\\Users\\KusmithaRaj\\Downloads\\EmployeeDirectory-UseCase\\EmployeeDirectoryTest\\EmployeeDirectoryTest.csproj",
+      "projectPath": "C:\\Users\\KusmithaRaj\\source\\repos\\EmployeeDirectoryTest\\EmployeeDirectoryTest.csproj",
       "packagesPath": "C:\\Users\\KusmithaRaj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KusmithaRaj\\Downloads\\EmployeeDirectory-UseCase\\EmployeeDirectoryTest\\obj\\",
+      "outputPath": "C:\\Users\\KusmithaRaj\\source\\repos\\EmployeeDirectoryTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5121,8 +5121,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\KusmithaRaj\\Downloads\\EmployeeDirectory-UseCase\\Backend\\EmployeeDirectoryApp.csproj": {
-              "projectPath": "C:\\Users\\KusmithaRaj\\Downloads\\EmployeeDirectory-UseCase\\Backend\\EmployeeDirectoryApp.csproj"
+            "C:\\Users\\KusmithaRaj\\source\\repos\\Backend\\EmployeeDirectoryApp.csproj": {
+              "projectPath": "C:\\Users\\KusmithaRaj\\source\\repos\\Backend\\EmployeeDirectoryApp.csproj"
+            },
+            "C:\\Users\\KusmithaRaj\\source\\repos\\EmployeeDirectoryApp-Backend\\EmployeeDirectoryApp.csproj": {
+              "projectPath": "C:\\Users\\KusmithaRaj\\source\\repos\\EmployeeDirectoryApp-Backend\\EmployeeDirectoryApp.csproj"
             }
           }
         }

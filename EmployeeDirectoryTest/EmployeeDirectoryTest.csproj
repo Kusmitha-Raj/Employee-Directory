@@ -18,10 +18,11 @@
 	  <ItemGroup>
 		  <FrameworkReference Include="Microsoft.AspNetCore.App" />
 	  </ItemGroup>
-	  <ItemGroup>
-	    <ProjectReference Include="..\Backend\EmployeeDirectoryApp.csproj" />
-	  </ItemGroup>
-
+ 
+    <ItemGroup>
+		<ProjectReference Include="..\Backend\EmployeeDirectoryApp.csproj" />
+		<ProjectReference Include="..\EmployeeDirectoryApp-Backend\EmployeeDirectoryApp.csproj" />
+	</ItemGroup>
 
 
 	<ItemGroup>
