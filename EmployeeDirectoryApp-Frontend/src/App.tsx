@@ -7,7 +7,7 @@ import DepartmentList from "./pages/Departments/DepartmentList";
 import DepartmentForm from "./pages/Departments/DepartmentForm";
 import Navbar from "./components/Navbar";
 
-// 👇 add these 2 imports
+
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
@@ -15,8 +15,6 @@ export default function App() {
   return (
     <>
       <Navbar />
-
-      {/* 👇 global toast container */}
       <ToastContainer position="top-right" autoClose={6000} />
 
       <Routes>

@@ -11,9 +11,6 @@ test("renders the app root content", () => {
       </AuthProvider>
     </MemoryRouter>
   );
-
-  // 🔁 Change this text to something that actually appears in your UI.
-  // For example "Login", "Employees", your app name, etc.
   const element = screen.getByText(/employee directory/i);
 
   expect(element).toBeInTheDocument();
